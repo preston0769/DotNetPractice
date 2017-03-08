@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDD_Practice", "TDD_Practice\TDD_Practice.csproj", "{1BDA8396-3C80-47DF-A32E-E37DE407833A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{FED3E4D6-8FCE-4EE2-86AB-A9AB14E059C8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Applications", "{F8BD5719-018C-4665-B06C-0E8EB27EDE2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BDA8396-3C80-47DF-A32E-E37DE407833A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BDA8396-3C80-47DF-A32E-E37DE407833A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BDA8396-3C80-47DF-A32E-E37DE407833A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BDA8396-3C80-47DF-A32E-E37DE407833A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1BDA8396-3C80-47DF-A32E-E37DE407833A} = {F8BD5719-018C-4665-B06C-0E8EB27EDE2D}
+	EndGlobalSection
+EndGlobal
